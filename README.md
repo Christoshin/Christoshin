@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Christoshin
 - 👀 I’m interested in Programming and Art
 - 🌱 I’m currently learning Java, C++, OpenGL
-- 💞️ I’m looking to collaborate on nothing atm
 - 😄 Pronouns: he/him
 
 <!---
